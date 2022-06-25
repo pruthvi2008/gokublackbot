@@ -100,14 +100,14 @@ buttons = [
     [
         InlineKeyboardButton(
                             text="☑ Add Vegeta To Groups ☑",
-                            url="t.me/VegetaRobot?startgroup=true"),
+                            url="t.me/Goku_blackxd_bot?startgroup=true"),
                     ],
                      [
-                       InlineKeyboardButton(text="SUPPORT", url="https://t.me/{SUPPORT_CHAT}"),
-                       InlineKeyboardButton(text="UPDATES",  url="https://t.me/{UPDATES_CHANNEL}"),
+                       InlineKeyboardButton(text="SUPPORT", url="https://t.me/goku_black_sup"),
+                       InlineKeyboardButton(text="UPDATES",  url="https://t.me/gokublackupdates"),
                     ],
                    [
-                       InlineKeyboardButton(text="NETWORK", url="https://t.me/nandhabots"),
+                       InlineKeyboardButton(text="KAZUMA CLAN", url="https://t.me/KazumaclanXD"),
                        InlineKeyboardButton(text="HELP", callback_data="help_back"
          ),
     ],
